@@ -7,6 +7,8 @@ int addition (int a,int b)
 }
 int main()
 {
-    printf("a+b= %d\n",addition (1,4));
+
+    printf("Résultat ! %d\n",addition (1,4));
+>>>>>>> aa5dbf9d87a31f70302258e5e6aedd3532b7b442
     return 0;
 }
